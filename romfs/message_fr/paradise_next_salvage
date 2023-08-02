@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<struct endianness="little" mode="4">
+	<sep type="Root"/>
+	<data type="int">21</data>
+	<struct>
+		<sep type="Database"/>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"/>
+		</struct>
+		<data type="uint">1000</data>
+		<data type="uint16">0</data>
+		<data type="uint16">999</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1001</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Bienvenue dans le mode multijoueur de[R]Trésors Engloutis !</data>
+		</struct>
+		<data type="uint">1002</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Jouer</data>
+		</struct>
+		<data type="uint">1003</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Infos</data>
+		</struct>
+		<data type="uint">1004</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1005</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Autre chose ?</data>
+		</struct>
+		<data type="uint">1006</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Hop ! Tout le monde plonge !</data>
+		</struct>
+		<data type="uint">1007</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Hop ! Me revoilà !</data>
+		</struct>
+		<data type="uint">1008</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Hop ! Voici un récapitulatif de[R]nos aventures ensemble !</data>
+		</struct>
+		<data type="uint">1009</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Nous n'avons jamais plongé ensemble...</data>
+		</struct>
+		<data type="uint">1010</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Statistiques de Trésors Engloutis</data>
+		</struct>
+		<data type="uint">1011</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Liste des Trésors</data>
+		</struct>
+		<data type="uint">1012</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Parcourez la liste pour voir les trésors récupérés</data>
+		</struct>
+		<data type="uint">1013</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Infos</data>
+		</struct>
+		<data type="uint">1014</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">A quelle profondeur veux-tu plonger ?</data>
+		</struct>
+		<data type="uint">1015</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">20 m</data>
+		</struct>
+		<data type="uint">1016</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">30 m</data>
+		</struct>
+		<data type="uint">1017</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">50 m</data>
+		</struct>
+		<data type="uint">1018</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Récapitulatif Plongée (Session Actuelle)\x000A\x000A\x000ANombre de Plongées :\xC590\x0091\xF805\x0006\x000A\x000ATrésors Obtenus\x000AMeilleur :\xC590\x0091\xF806\x0007\x000ATotal :\xC590\x0091\xF807\x0008\x000A\x000ACrashs Loupio :\xC590\x0091\xF808\x0009</data>
+		</struct>
+		<data type="uint">1019</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Il faudrait d'abord attendre que tes amis\x000Aarrivent dans ton Pokéden.</data>
+		</struct>
+		<data type="uint">1020</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+	</struct>
+</struct>

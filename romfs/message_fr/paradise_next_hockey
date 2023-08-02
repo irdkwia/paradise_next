@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<struct endianness="little" mode="4">
+	<sep type="Root"/>
+	<data type="int">19</data>
+	<struct>
+		<sep type="Database"/>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"/>
+		</struct>
+		<data type="uint">1000</data>
+		<data type="uint16">0</data>
+		<data type="uint16">999</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1001</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Bienvenue dans le mode multijoueur de[R]Hockey Polagriffe !</data>
+		</struct>
+		<data type="uint">1002</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Jouer</data>
+		</struct>
+		<data type="uint">1003</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Infos</data>
+		</struct>
+		<data type="uint">1004</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1005</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Autre chose ?</data>
+		</struct>
+		<data type="uint">1006</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Commençons !</data>
+		</struct>
+		<data type="uint">1007</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Tu joues tout seul !</data>
+		</struct>
+		<data type="uint">1008</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">1er</data>
+		</struct>
+		<data type="uint">1009</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">2ème</data>
+		</struct>
+		<data type="uint">1010</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">3ème</data>
+		</struct>
+		<data type="uint">1011</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">4ème</data>
+		</struct>
+		<data type="uint">1012</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">C'est tout pour le moment.</data>
+		</struct>
+		<data type="uint">1013</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Et... c'est fini !</data>
+		</struct>
+		<data type="uint">1014</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Mais nous... n'avons jamais joué ensemble...</data>
+		</struct>
+		<data type="uint">1015</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Statistiques Hockey Polagriffe</data>
+		</struct>
+		<data type="uint">1016</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Rien</data>
+		</struct>
+		<data type="uint">1017</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Impossible de jouer à Hockey Polagriffe[R]\xC200en multijoueur pour des raisons de sécurité.</data>
+		</struct>
+		<data type="uint">1018</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+	</struct>
+</struct>

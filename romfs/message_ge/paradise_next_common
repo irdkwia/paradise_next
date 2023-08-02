@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<struct endianness="little" mode="4">
+	<sep type="Root"/>
+	<data type="int">13</data>
+	<struct>
+		<sep type="Database"/>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"/>
+		</struct>
+		<data type="uint">0</data>
+		<data type="uint16">0</data>
+		<data type="uint16">999</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200This part of your friend's Paradise isn't[R]\xC200normally available in Multiplayer mode...[C]\xC200But I see you have your V.I.P. Pass[R]\xC200so you may enter!</data>
+		</struct>
+		<data type="uint">1</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Only the host can harvest!</data>
+		</struct>
+		<data type="uint">2</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Cannot build while in Multiplayer mode!</data>
+		</struct>
+		<data type="uint">3</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Invite a friend in Paradise to join you\x000A\xC200on Sunken Treasure.</data>
+		</struct>
+		<data type="uint">4</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Invite a friend in Paradise to join you\x000A\xC200on Beartic Slide.</data>
+		</struct>
+		<data type="uint">5</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200You've already been invited by a friend\x000A\xC200to join a minigame.\xEE00\xC200First, leave the shop\x000A\xC200and check on the invitation.</data>
+		</struct>
+		<data type="uint">6</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Everyone's here!\x000A\xC200Time to begin the minigame.</data>
+		</struct>
+		<data type="uint">7</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200There is a minigame started but you\x000A\xC200are not in one of the Paradise facilities area.[C]\xC200Tell the one who started it\x000A\xC200to cancel it.</data>
+		</struct>
+		<data type="uint">8</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200This dungeon is only accessible in\x000A\xC200single player mode.[C]\xC200Come back later!</data>
+		</struct>
+		<data type="uint">9</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">I'll even buy your Stones and spikes\x000Aat a high price!</data>
+		</struct>
+		<data type="uint">10</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"></data>
+		</struct>
+		<data type="uint">11</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"></data>
+		</struct>
+		<data type="uint">12</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+	</struct>
+</struct>

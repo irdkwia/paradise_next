@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<struct endianness="little" mode="4">
+	<sep type="Root"/>
+	<data type="int">13</data>
+	<struct>
+		<sep type="Database"/>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"/>
+		</struct>
+		<data type="uint">0</data>
+		<data type="uint16">0</data>
+		<data type="uint16">999</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Cette partie du Pokéden n'est \x000A\xC200normalement pas disponible en multijoueur...[C]\xC200Mais je vois que tu as le passe \x000A\xC200V.I.P., donc tu peux passer !</data>
+		</struct>
+		<data type="uint">1</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Seul le propriétaire peut récolter !</data>
+		</struct>
+		<data type="uint">2</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Impossible de construire avec \x000A\xC200le mode multijoueur actif !</data>
+		</struct>
+		<data type="uint">3</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Inviter un ami qui se trouve dans Pokéden\x000A\xC200à jouer à Trésors Engloutis avec vous.</data>
+		</struct>
+		<data type="uint">4</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Inviter un ami qui se trouve dans Pokéden\x000A\xC200à jouer à Hockey Polagriffe avec vous.</data>
+		</struct>
+		<data type="uint">5</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Un ami vous a déjà invité pour un mini-jeu.\x000A\xC200Veuillez quitter la boutique et consulter l'invitation.</data>
+		</struct>
+		<data type="uint">6</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Tout le monde est là!\x000A\xC200On peut commencer le mini-jeu.</data>
+		</struct>
+		<data type="uint">7</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Un mini-jeu a été lancé mais\x000A\xC200tu n'es pas dans une zone de stands de Pokéden.[C]\xC200Demande à celui qui l'a lancé\x000A\xC200de l'annuler.</data>
+		</struct>
+		<data type="uint">8</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xC200Ce donjon n'est accessible\x000A\xC200qu'en mode solo.[C]\xC200Revenez plus tard !</data>
+		</struct>
+		<data type="uint">9</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Nous achetons aussi vos Pierres\x000Aet épines à prix d'or !</data>
+		</struct>
+		<data type="uint">10</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">\xB100Cette boutique est spécialisée dans les\x000APierres et les épines. Vous pouvez en\x000Aacheter, mais aussi y vendre les vôtres\x000Aà un prix supérieur au prix du marché.\x000APlus elle s'améliore, plus elle propose\x000Ades Pierres et des épines rares.\xB101</data>
+		</struct>
+		<data type="uint">11</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"></data>
+		</struct>
+		<data type="uint">12</data>
+		<data type="uint16">3</data>
+		<data type="uint16">240</data>
+	</struct>
+</struct>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<struct endianness="little" mode="4">
+	<sep type="Root"/>
+	<data type="int">21</data>
+	<struct>
+		<sep type="Database"/>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16"/>
+		</struct>
+		<data type="uint">1000</data>
+		<data type="uint16">0</data>
+		<data type="uint16">999</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1001</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Welcome![R]This is Sunken Treasure multiplayer mode!</data>
+		</struct>
+		<data type="uint">1002</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Play</data>
+		</struct>
+		<data type="uint">1003</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Help</data>
+		</struct>
+		<data type="uint">1004</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Stats</data>
+		</struct>
+		<data type="uint">1005</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Anything else?</data>
+		</struct>
+		<data type="uint">1006</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Yay! We're all diving!</data>
+		</struct>
+		<data type="uint">1007</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Yay! I'm back!</data>
+		</struct>
+		<data type="uint">1008</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Yay! Here is a record of our[R]past adventures!</data>
+		</struct>
+		<data type="uint">1009</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">We never went together...</data>
+		</struct>
+		<data type="uint">1010</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Sunken Treasure Stats</data>
+		</struct>
+		<data type="uint">1011</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Reward List</data>
+		</struct>
+		<data type="uint">1012</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Navigate through this list to see your rewards</data>
+		</struct>
+		<data type="uint">1013</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Info</data>
+		</struct>
+		<data type="uint">1014</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Which depth do you want to dive at?</data>
+		</struct>
+		<data type="uint">1015</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">20m</data>
+		</struct>
+		<data type="uint">1016</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">30m</data>
+		</struct>
+		<data type="uint">1017</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">50m</data>
+		</struct>
+		<data type="uint">1018</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">Diving Record (Current Session)\x000A\x000A\x000ADiving Count:\xC590\x0091\xF805\x0006\x000A\x000ATreasures obtained\x000ABest:\xC590\x0091\xF806\x0007\x000ATotal:\xC590\x0091\xF807\x0008\x000A\x000AChinchou Crashes:\xC590\x0091\xF808\x0009</data>
+		</struct>
+		<data type="uint">1019</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+		<sep type="Field"/>
+		<struct>
+			<data type="str16">You should wait for friends to join\x000Ayour Paradise first.</data>
+		</struct>
+		<data type="uint">1020</data>
+		<data type="uint16">1</data>
+		<data type="uint16">220</data>
+	</struct>
+</struct>
