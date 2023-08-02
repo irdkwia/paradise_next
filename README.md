@@ -3,7 +3,10 @@
 ## What is it?
 
 Paradise NEXT is a set of script/data edits that lets you play
-some of the planned, but scrapped, features from paradise.
+some of the planned, but scrapped, features from paradise in the
+3DS title `Pokémon Mystery Dungeon: Gates to Infinity`.
+
+This currently supports EU and US versions of the game.
 
 This also includes some local multiplayer mode features.
 
